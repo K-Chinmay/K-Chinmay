@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinmay Kulkarni</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on [RationRelief](https://rationrelief.netlify.app/)
+- 🔭 I’m currently working on [Explorastory webapp](https://www.humanifytechnologies.com/product)
 
 - 🌱 I’m currently learning **NextJS**
 
